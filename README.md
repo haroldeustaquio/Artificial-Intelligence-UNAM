@@ -1,17 +1,17 @@
 # Artificial Intelligence UNAM
 
+## Overview
+
 This repository contains a collection of implementations related to Artificial Intelligence, developed as part of the UNAM AI course. The included projects address fundamental concepts such as intelligent agents, fuzzy logic, and search and decision-making algorithms in the context of games.
 
-## Content
+**Content**
 
-- **Intelligent Agents**: Contains implementations of intelligent agents of different types:
-
-- **Fuzzy Logic**: A system based on fuzzy logic to evaluate the financial risk of clients who apply for car insurance policies. It evaluates the risk based on the applicant's age and driving percentage.
-
-- **Adversarial Search Algorithms**: Examples of search and decision-making algorithms applied to games, exploring concepts such as adversarial search and real-time decision-making.
+- [Intelligent Agents](#intelligent-agents)
+- [Fuzzy Logic](#fuzzy-logic)
+- [Adversarial Search Algorithms](#adversarial-search-algorithms)
 
 
-## Project Description
+---
 
 ### Intelligent Agents
 
@@ -50,4 +50,8 @@ Examples of search algorithms for decision making in adversarial and real-time g
 
 ---
 
-If you have suggestions or would like to contribute, please open an *Issue* or make a *Pull Request*. Your participation is welcome to improve and expand this project.
+<div align="center"> 
+  <em> 
+    We believe in the power of collaboration. If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Let’s make this project even better—your contributions are always welcome! 
+  </em> 
+</div>

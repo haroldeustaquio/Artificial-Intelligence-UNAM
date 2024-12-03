@@ -1,12 +1,22 @@
 # Repository of Algorithmic Games and Decision Making
 
+## Overview
+
 This repository brings together practical examples of search and decision-making algorithms in the context of artificial intelligence applied to games. Through these algorithms, fundamental concepts in strategic decision making are explored, both in adversarial games and in environments with real-time decision making.
+
+**Content**
+
+- [Implemented Algorithms](#implemented-algorithms)
+    - [Adversarial Search Algorithms](#adversarial-search-algorithms)
+    - [Real-Time Decision Making](#real-time-decision-making)
+    - [Games of Possibility and Strategies under Uncertainty](#games-of-possibility-and-strategies-under-uncertainty)
+- [Games in the Repository](#games-in-the-repository)
 
 ---
 
 ## Implemented Algorithms
 
-### 1. Adversarial Search Algorithms
+### Adversarial Search Algorithms
 
 In games where two or more players compete directly (adversarial games), the strategy is focused on maximizing one's own gain and minimizing the opponent's. Search algorithms such as Minimax and Alpha-Beta pruning are essential in these contexts:
 
@@ -16,7 +26,7 @@ In games where two or more players compete directly (adversarial games), the str
 
 Application example: These algorithms are ideal for zero-sum games, such as chess and Tic-Tac-Toe, where the goal is to maximize one's own options while minimizing those of the opponent.
 
-### 2. Real-Time Decision Making
+### Real-Time Decision Making
 
 In real-time environments, decisions must be made quickly without full analysis, a common challenge in strategy video games or robotics. Approaches to addressing real-time decision making include:
 
@@ -26,7 +36,7 @@ In real-time environments, decisions must be made quickly without full analysis,
 
 Application example: This type of decision making is used in games such as Space Invaders, where the player or AI system needs to react to events in real time.
 
-### 3. Games of Possibility and Strategies under Uncertainty
+### Games of Possibility and Strategies under Uncertainty
 
 In games where chance is a determining factor and there is uncertainty in the results (chance games), algorithms must make decisions considering uncertain conditions. In these cases, common strategies include:
 
@@ -47,4 +57,8 @@ This repository contains implementations of the following games, each designed t
 
 ---
 
-For any issues, suggestions for improvement or contributions, please use the *Issues* section to report problems or make a *Pull Request* with your proposals. I appreciate your interest in improving this project.
+<div align="center"> 
+  <em> 
+    We believe in the power of collaboration. If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Let’s make this project even better—your contributions are always welcome! 
+  </em> 
+</div>
